@@ -2,7 +2,7 @@ import React from 'react';
 import './footer.css';
 import Twitter from '../../twitter.jpg';
 import Facebook from '../../face.jpg';
-import Instagram from '../../insta.jpg';
+// import Instagram from '../../insta.jpg';
 import Linkedn from '../../linked.jpg';
 import Mail from '../../mailer.jpg';
 // import { Link } from 'react-router-dom';
