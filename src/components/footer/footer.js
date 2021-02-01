@@ -5,7 +5,7 @@ import Facebook from '../../face.jpg';
 import Instagram from '../../insta.jpg';
 import Linkedn from '../../linked.jpg';
 import Mail from '../../mailer.jpg';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 
 const Footer = () => {
     return (
@@ -23,19 +23,19 @@ const Footer = () => {
                     </div>
 
                     <div>
-                        <a href = ''>
+                        <a href = '#'>
                             <img src = { Twitter } alt = 'Twitter Logo' />
                         </a>
-                        <a href = ''>
+                        <a href = '#'>
                             <img src = { Instagram } alt = 'Instagram Logo' />
                         </a>
                         <a href = 'mail.yahoo.com'>
                             <img src = { Mail } alt = 'Mail Logo' />
                         </a>
-                        <a href = ''>
+                        <a href = '#'>
                             <img src = { Facebook } alt = 'Facebook Logo' />
                         </a>
-                        <a href = ''>
+                        <a href = '#'>
                             <img src = { Linkedn  } alt = 'Linkedn Logo' />
                         </a>
                         
