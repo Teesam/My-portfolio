@@ -38,7 +38,7 @@ const Projects = () => {
                     </div>
 
                     <div className = 'Project-holder'>
-                        <Link to = '/' className = 'Project-list'>Responsive Navbar Test</Link>
+                        <Link to = '/' className = 'Project-list'>Responsive Nav</Link>
                     </div>
 
                 </div>
