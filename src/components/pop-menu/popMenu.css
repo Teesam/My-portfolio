@@ -7,7 +7,7 @@
     right: 0;
     top: 3rem;
     animation-name: popAnimation;
-    animation-duration: 2s;
+    animation-duration: 1s;
 }
 
 @keyframes popAnimation{
