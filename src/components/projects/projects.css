@@ -11,9 +11,13 @@
     100%{opacity: 1;}
 }
 
+.Projects > div{
+    padding-bottom: 3rem;
+}
+
 .Project-holder{
-    width: 20rem;
-    height: 15rem;
+    width: 10rem;
+    height: 5rem;
     border-radius: 10px;
     background-color: rgb(1, 7, 24);
     display: flex;

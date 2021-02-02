@@ -17,38 +17,42 @@ const Projects = () => {
 
             { state.checked === true ? '' : <PopMenu id = 'pop' /> }
 
-            <div className = 'Projects-keeper'>
+            <div>
 
-                <div className = 'Project-holder'>
-                    <Link to = '/' className = 'Project-list'>My Portfolio Site</Link>
+                <div className = 'Projects-keeper'>
+
+                    <div className = 'Project-holder'>
+                        <Link to = '/' className = 'Project-list'>My Portfolio Site</Link>
+                    </div>
+
+                    <div className = 'Project-holder'>
+                        <a href = 'http://elastic-leakey-7ef9d9.netlify.app' className = 'Project-list'>Sa Forum</a>
+                    </div>
+
                 </div>
 
-                <div className = 'Project-holder'>
-                    <a href = 'http://elastic-leakey-7ef9d9.netlify.app' className = 'Project-list'>Sa Forum</a>
+                <div className = 'Projects-keeper'>
+
+                    <div className = 'Project-holder'>
+                        <Link to = '/' className = 'Project-list'>Live Chat App</Link>
+                    </div>
+
+                    <div className = 'Project-holder'>
+                        <Link to = '/' className = 'Project-list'>Responsive Navbar Test</Link>
+                    </div>
+
                 </div>
 
-            </div>
+                <div className = 'Projects-keeper'>
 
-            <div className = 'Projects-keeper'>
+                    <div className = 'Project-holder'>
+                        <Link to = '/' className = 'Project-list'>My Portfolio Site</Link>
+                    </div>
 
-                <div className = 'Project-holder'>
-                    <Link to = '/' className = 'Project-list'>Live Chat App</Link>
-                </div>
+                    <div className = 'Project-holder'>
+                        <Link to = '/' className = 'Project-list'>Digital Clock</Link>
+                    </div>
 
-                <div className = 'Project-holder'>
-                    <Link to = '/' className = 'Project-list'>Responsive Navbar Test</Link>
-                </div>
-
-            </div>
-
-            <div className = 'Projects-keeper'>
-
-                <div className = 'Project-holder'>
-                    <Link to = '/' className = 'Project-list'>My Portfolio Site</Link>
-                </div>
-
-                <div className = 'Project-holder'>
-                    <Link to = '/' className = 'Project-list'>Digital Clock</Link>
                 </div>
 
             </div>
