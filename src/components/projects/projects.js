@@ -34,11 +34,11 @@ const Projects = () => {
                 <div className = 'Projects-keeper'>
 
                     <div className = 'Project-holder'>
-                        <Link to = 'https://sharp-kalam-92cd0e.netlify.app' className = 'Project-list'>Vasiti App</Link>
+                        <a href = 'https://sharp-kalam-92cd0e.netlify.app' className = 'Project-list'>Vasiti App</a>
                     </div>
 
                     <div className = 'Project-holder'>
-                        <Link to = 'https://evolve-technologies-test.netlify.app' className = 'Project-list'>Exolve Web App</Link>
+                        <a href = 'https://evolve-technologies-test.netlify.app' className = 'Project-list'>Exolve Web App</a>
                     </div>
 
                 </div>
@@ -46,11 +46,11 @@ const Projects = () => {
                 <div className = 'Projects-keeper'>
 
                     <div className = 'Project-holder'>
-                        <Link to = 'https://drugstock-web-app.herokuapp.com' className = 'Project-list'>Drugstoc App</Link>
+                        <a href = 'https://drugstock-web-app.herokuapp.com' className = 'Project-list'>Drugstoc App</a>
                     </div>
 
                     <div className = 'Project-holder'>
-                        <Link to = 'https://sad-mcnulty-3406b8.netlify.app' className = 'Project-list'>E Learning App</Link>
+                        <a href = 'https://sad-mcnulty-3406b8.netlify.app' className = 'Project-list'>E Learning App</a>
                     </div>
 
                 </div>
