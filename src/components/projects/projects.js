@@ -34,11 +34,11 @@ const Projects = () => {
                 <div className = 'Projects-keeper'>
 
                     <div className = 'Project-holder'>
-                        <Link to = '/' className = 'Project-list'>Live Chat App</Link>
+                        <Link to = 'https://sharp-kalam-92cd0e.netlify.app' className = 'Project-list'>Vasiti App</Link>
                     </div>
 
                     <div className = 'Project-holder'>
-                        <Link to = '/' className = 'Project-list'>Responsive Nav</Link>
+                        <Link to = 'https://evolve-technologies-test.netlify.app' className = 'Project-list'>Exolve Web App</Link>
                     </div>
 
                 </div>
@@ -46,11 +46,11 @@ const Projects = () => {
                 <div className = 'Projects-keeper'>
 
                     <div className = 'Project-holder'>
-                        <Link to = '/' className = 'Project-list'>My Portfolio Site</Link>
+                        <Link to = 'https://drugstock-web-app.herokuapp.com' className = 'Project-list'>Drugstoc App</Link>
                     </div>
 
                     <div className = 'Project-holder'>
-                        <Link to = '/' className = 'Project-list'>Digital Clock</Link>
+                        <Link to = 'https://sad-mcnulty-3406b8.netlify.app' className = 'Project-list'>E Learning App</Link>
                     </div>
 
                 </div>
